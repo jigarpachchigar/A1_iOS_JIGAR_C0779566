@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		74BDCA6025BF4694009BE6BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BDCA5F25BF4694009BE6BA /* AppDelegate.swift */; };
-		74BDCA6225BF4694009BE6BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BDCA6125BF4694009BE6BA /* SceneDelegate.swift */; };
 		74BDCA6425BF4694009BE6BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BDCA6325BF4694009BE6BA /* ViewController.swift */; };
 		74BDCA6725BF4694009BE6BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74BDCA6525BF4694009BE6BA /* Main.storyboard */; };
 		74BDCA6925BF4699009BE6BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74BDCA6825BF4699009BE6BA /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		74BDCA5C25BF4694009BE6BA /* A1_iOS_JIGAR_C0779566.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = A1_iOS_JIGAR_C0779566.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74BDCA5F25BF4694009BE6BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		74BDCA6125BF4694009BE6BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		74BDCA6325BF4694009BE6BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		74BDCA6625BF4694009BE6BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		74BDCA6825BF4699009BE6BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				74BDCA5F25BF4694009BE6BA /* AppDelegate.swift */,
-				74BDCA6125BF4694009BE6BA /* SceneDelegate.swift */,
 				74BDCA6325BF4694009BE6BA /* ViewController.swift */,
 				74BDCA6525BF4694009BE6BA /* Main.storyboard */,
 				74BDCA6825BF4699009BE6BA /* Assets.xcassets */,
@@ -260,7 +257,6 @@
 			files = (
 				74BDCA6425BF4694009BE6BA /* ViewController.swift in Sources */,
 				74BDCA6025BF4694009BE6BA /* AppDelegate.swift in Sources */,
-				74BDCA6225BF4694009BE6BA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,7 +433,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.0;
+				DEVELOPMENT_TEAM = 429UMQ5XD8;
 				INFOPLIST_FILE = A1_iOS_JIGAR_C0779566/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -455,7 +454,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.0;
+				DEVELOPMENT_TEAM = 429UMQ5XD8;
 				INFOPLIST_FILE = A1_iOS_JIGAR_C0779566/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
